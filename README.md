@@ -14,7 +14,7 @@
  
 <br>
  
-### Para meu passado "oculto", me segue no LinkedIn!
+### Follow me on LinkedIn!
  
 <div> 
   <a href="https://www.linkedin.com/in/renata-pavan-de-souza-5b6084117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
